@@ -1,32 +1,27 @@
-<div align="center">
-
 # Hi, I'm Muhammad Huzaifa 👋
 
 ### Data Science Student • Aspiring Machine Learning Engineer • Python Project Builder
 
-I build practical machine learning projects, predictive systems, and data-driven applications using Python, Pandas, Scikit-learn, Flask, Streamlit, and SQL.
+I build **data-driven systems that help businesses make smarter decisions**.
 
-<br/>
+My focus is on practical machine learning, predictive systems, dashboards, and web applications that turn raw data into useful insights, risk signals, and real-world decision support.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FFE66D?style=for-the-badge&logo=vercel&logoColor=000000)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Huzaifa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-271900242/)
-[![GitHub](https://img.shields.io/badge/GitHub-Stud--Huzaifa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stud-Huzaifa)
-[![Email](https://img.shields.io/badge/Email-huzaifaraj99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifaraj99@gmail.com)
-
-</div>
+🌐 **Portfolio:** [stud-huzaifa.github.io/huzaifa-portfolio](https://stud-huzaifa.github.io/huzaifa-portfolio/)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a growing **Data Scientist** and **Machine Learning Engineer** from Karachi, Pakistan.  
-My focus is on building practical projects that convert raw data into clean insights, predictions, dashboards, and useful applications.
+I am a growing **Data Scientist** and **Machine Learning Engineer** from Karachi, Pakistan.
 
-- 🎓 BS Data Science student at Dawood University of Engineering & Technology
-- 🧠 Interested in Machine Learning, Data Analysis, Predictive Modeling, and AI systems
-- 🛠️ Building portfolio projects with Python, Scikit-learn, Flask, Streamlit, and SQL
-- 📈 Learning how to turn models into real, usable applications
-- 🤝 Open to internships, junior data roles, ML projects, and collaboration
+I enjoy building practical projects that connect data, machine learning, and simple user interfaces. My goal is not only to train models, but to turn them into usable applications that can solve real business problems.
+
+* 🎓 BS Data Science student at Dawood University of Engineering & Technology
+* 🧠 Interested in Machine Learning, Predictive Modeling, Data Analysis, and AI systems
+* 🛠️ Building projects with Python, Scikit-learn, Flask, Streamlit, FastAPI, SQL, and React
+* 📊 Focused on turning raw data into insights, predictions, dashboards, and decision-support tools
+* 🚀 Learning end-to-end ML workflows: data cleaning, modeling, evaluation, app building, and deployment
+* 🤝 Open to internships, junior data roles, freelance ML projects, and collaboration
 
 ---
 
@@ -34,151 +29,141 @@ My focus is on building practical projects that convert raw data into clean insi
 
 ### Programming & Data
 
-<p>
-  <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=111111" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=111111" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Regression-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Classification-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-FFE66D?style=for-the-badge" />
-</p>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-1E3A8A?style=for-the-badge)
 
 ### Visualization & Apps
 
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-7A9E9F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=FFFFFF" />
-</p>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge\&logo=render\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 1. Customer Churn Prediction & Retention Intelligence App
 
-### Vendor Invoice Intelligence Portal
+A deployed machine learning app that helps businesses identify customers likely to leave, segment them by risk level, and support smarter retention decisions.
 
-ML-powered system for freight cost prediction and invoice risk detection.
+**Why I built it:**
+To solve a real business problem: customer loss. The app helps teams detect churn risk early and take action before losing revenue.
 
-**Why I built it:**  
-To explore how machine learning can support finance teams by reducing repetitive invoice checking and flagging risky records.
+**Key Features:**
 
-**Tech:** Python, Random Forest, Scikit-learn, Streamlit, SQLite
+* CSV upload
+* Data validation
+* Churn probability prediction
+* Customer risk segmentation
+* Monitoring dashboard
+* Downloadable prediction results
 
-<a href="https://github.com/Stud-Huzaifa">
-  <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tech:** Python, Pandas, Scikit-learn, Streamlit, Render
+**Live App:** [Customer Churn App](https://sarah-ahmed-client-1.onrender.com/)
+**GitHub:** [Repository](https://github.com/Stud-Huzaifa/customer-churn-app-retention-bussiness-intelligent-system)
 
-</td>
-<td width="50%">
+---
 
-### NVIDIA Stock Price Prediction
+### 2. Vendor Invoice Intelligence Portal
 
-Regression-based machine learning app for next-day closing price prediction.
+A machine learning web app for invoice review, freight cost prediction, and approval risk screening.
 
-**Why I built it:**  
-To understand how ML behaves with noisy financial data and how predictions can be served through a simple web interface.
+**Why I built it:**
+To explore how ML can reduce manual invoice checking and help finance/procurement teams make faster approval decisions.
 
-**Tech:** Python, Pandas, Scikit-learn, Flask, Bootstrap
+**Key Features:**
 
-<a href="https://github.com/Stud-Huzaifa">
-  <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+* Freight cost prediction
+* Invoice approval risk screening
+* Structured input workflow
+* Business insight cards
+* Interactive Streamlit dashboard
 
-</td>
-</tr>
+**Tech:** Python, Scikit-learn, Streamlit, Pandas
+**Live App:** [Vendor Invoice Intelligence Portal](https://invoice-intelligence-machine-learning-project-h8pmxm4koinppmh8.streamlit.app/)
+**GitHub:** [Repository](https://github.com/Stud-Huzaifa/Invoice-Intelligence-Machine-Learning-Project)
 
-<tr>
-<td width="50%">
+---
 
-### Telco Customer Churn Prediction
+### 3. AirSense AI — AQI Monitoring & Prediction Platform
 
-Classification model for identifying customers likely to leave a telecom service.
+A full-stack environmental intelligence system for monitoring air quality, storing AQI readings, predicting future AQI, and generating health-risk recommendations.
 
-**Why I built it:**  
-To practice business-focused classification where predictions can support customer retention decisions.
+**Why I built it:**
+To turn raw pollution data into a smart-city style dashboard that gives users clearer context, predictions, and safer outdoor guidance.
 
-**Tech:** Python, Pandas, Scikit-learn, EDA, Classification
+**Key Features:**
 
-<a href="https://github.com/Stud-Huzaifa">
-  <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+* Live AQI data integration
+* Pollutant trend charts
+* Map visualization
+* AQI prediction
+* Health-risk alerts
+* Rule-based AQI assistant
 
-</td>
-<td width="50%">
+**Tech:** Python, FastAPI, React, SQLite, Recharts, Leaflet, Scikit-learn
 
-### Linear Regression from Scratch
+---
 
-Implemented linear regression manually using gradient descent without ML libraries.
+### 4. NVIDIA Stock Price Prediction Web App
 
-**Why I built it:**  
-To understand the mathematics behind model training instead of only using pre-built libraries.
+A Flask-based machine learning web app that predicts NVIDIA’s next-day stock price using historical data and Linear Regression.
 
-**Tech:** Python, NumPy, Pandas, Matplotlib, Gradient Descent
+**Why I built it:**
+To practice regression modeling with noisy financial data and learn how ML predictions can be served through a simple web interface.
 
-<a href="https://github.com/Stud-Huzaifa">
-  <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Flask, Bootstrap
+**GitHub:** [Repository](https://github.com/Stud-Huzaifa/nvidia-stock-prediction)
 
-</td>
-</tr>
-</table>
+---
+
+### 5. Breast Cancer Prediction Web App
+
+A Flask-based machine learning web app that predicts whether a tumor is cancerous or non-cancerous using the Breast Cancer Wisconsin Dataset.
+
+**Why I built it:**
+To practice classification, model evaluation, and converting trained ML models into usable prediction web apps.
+
+**Tech:** Python, Scikit-learn, Flask, Classification
+**GitHub:** [Repository](https://github.com/Stud-Huzaifa/Breast-Cancer-Prediction)
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stud-Huzaifa\&show_icons=true\&theme=tokyonight)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Stud-Huzaifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Stud-Huzaifa&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stud-Huzaifa&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stud-Huzaifa&theme=tokyonight" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stud-Huzaifa\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Stud-Huzaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-
-</div>
-
-- IBM Data Science Professional Certificate
-- Python for Data Science & AI
-- Tools for Data Science V2
-- Data Visualization with Python
-- Databases & SQL for Data Science
-- Applied Data Science Capstone
+* IBM Data Science Professional Certificate
+* Supervised Machine Learning: Regression and Classification — DeepLearning.AI / Stanford Online
+* Crash Course on Python — Google
+* Python for Data Science & AI
+* Tools for Data Science
+* Data Visualization with Python
+* Databases and SQL for Data Science
+* Applied Data Science Capstone
 
 ---
 
@@ -193,52 +178,44 @@ Machine Learning Models
       ↓
 Model Evaluation
       ↓
-Flask / Streamlit Apps
+Flask / Streamlit / FastAPI Apps
       ↓
-Deployment + Real-World AI Systems
+Deployment
+      ↓
+Real-World AI Systems
 ```
 
 ---
 
 ## 🎯 What I’m Building Toward
 
-- Stronger end-to-end ML projects
-- Cleaner project documentation and case studies
-- Better model evaluation and comparison
-- Deployed ML apps with real UI
-- Practical AI systems that solve real problems
+* Stronger end-to-end machine learning projects
+* Cleaner project documentation and case studies
+* Better model evaluation and comparison
+* Deployed ML apps with practical UI
+* Business-focused data systems
+* AI and analytics tools that solve real problems
 
 ---
 
 ## 🤝 Open To
 
-- Data Science internships
-- Junior data roles
-- Machine Learning projects
-- Python automation projects
-- Remote collaboration
-- Portfolio/project feedback
+* Data Science internships
+* Junior data roles
+* Machine Learning projects
+* Python automation projects
+* Data analysis projects
+* Remote collaboration
+* Portfolio/project feedback
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="mailto:huzaifaraj99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-huzaifaraj99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-271900242/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Stud-Huzaifa">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+* **Portfolio:** [stud-huzaifa.github.io/huzaifa-portfolio](https://stud-huzaifa.github.io/huzaifa-portfolio/)
+* **GitHub:** [github.com/Stud-Huzaifa](https://github.com/Stud-Huzaifa)
+* **LinkedIn:** [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-271900242/)
 
 ---
 
-<div align="center">
-
 ### “Learning by building. Improving by shipping.”
-
-</div>
