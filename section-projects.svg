@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081421"/><stop offset=".58" stop-color="#102A3A"/><stop offset="1" stop-color="#163D4B"/></linearGradient>
+<linearGradient id="glow"><stop stop-color="#31D6C8"/><stop offset="1" stop-color="#9A8CFF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B8E8E8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="180" rx="20" fill="url(#bg)"/><rect width="1200" height="180" rx="20" fill="url(#grid)"/>
+<circle cx="1060" cy="40" r="180" fill="#31D6C8" opacity=".09"/><circle cx="1060" cy="40" r="118" fill="none" stroke="#31D6C8" stroke-opacity=".28" stroke-width="2"/><circle cx="1060" cy="40" r="78" fill="none" stroke="#9A8CFF" stroke-opacity=".35" stroke-width="2"/>
+<path d="M880 150 L980 50 L1050 90 L1160 -40" fill="none" stroke="url(#glow)" stroke-width="3" stroke-linecap="round"/>
+<text x="62" y="48" fill="#31D6C8" font-family="monospace" font-size="16" letter-spacing="4">HUZAIFA / PORTFOLIO</text>
+<text x="62" y="105" fill="#F3F7FA" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700">02  /  Selected Work</text>
+<text x="64" y="137" fill="#B7CBD5" font-family="Arial,Helvetica,sans-serif" font-size="17">Projects built around prediction, decision support, and real-world use</text>
+<rect x="62" y="150" width="190" height="4" rx="2" fill="url(#glow)"/>
+
+</svg>
