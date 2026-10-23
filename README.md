@@ -16,14 +16,27 @@
 
 <img src="assets/section-about.svg" width="100%" alt="About — Data science student, curious builder, practical problem solver">
 
-I'm **Muhammad Huzaifa**, a **BS Data Science student at Dawood University of Engineering & Technology** in Karachi, Pakistan. I enjoy taking real-world questions through the data workflow: preparing data, exploring patterns, training and evaluating models, and turning results into applications people can use.
+## Hi, I'm Muhammad Huzaifa
 
-- **Interests:** Machine Learning, predictive analytics, practical AI, and data-driven decision support
-- **Tools:** Python, Pandas, NumPy, Scikit-learn, SQL, Flask, Streamlit, and FastAPI
-- **Project themes:** Customer churn, invoice intelligence, environmental monitoring, and forecasting
-- **Currently focused on:** Improving end-to-end ML workflows, model evaluation, and deployed applications
+I'm a data science undergraduate in Karachi, Pakistan, who enjoys turning data into useful, working software. I build projects across the machine-learning workflow: exploring and preparing data, training and evaluating models, and presenting results through web apps and APIs.
 
-> *A model is most useful when its output helps someone make a better decision.*
+My interests include applied machine learning, predictive analytics, and decision-support tools. I value clear explanations, thoughtful evaluation, and solutions that are useful beyond a notebook.
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Applied%20Machine%20Learning-123746?style=flat-square&logo=scikitlearn&logoColor=31D6C8" alt="Focus: applied machine learning">
+  <img src="https://img.shields.io/badge/Approach-End--to--end%20projects-123746?style=flat-square&logo=github&logoColor=31D6C8" alt="Approach: end-to-end projects">
+  <img src="https://img.shields.io/badge/Based%20in-Karachi%2C%20Pakistan-123746?style=flat-square&logo=googlemaps&logoColor=31D6C8" alt="Based in Karachi, Pakistan">
+</p>
+
+> *I like taking a question from raw data to a result people can understand and use.*
+
+## Education
+
+| Degree | Institution | Location |
+| --- | --- | --- |
+| **Bachelor of Science in Data Science** — undergraduate student | Dawood University of Engineering & Technology | Karachi, Pakistan |
+
+I’m building my foundation in data science through university study and hands-on projects, with a practical focus on data analysis, machine learning, and communicating results clearly.
 
 <img src="assets/section-projects.svg" width="100%" alt="Selected work — machine learning and data science projects">
 
@@ -31,7 +44,7 @@ I'm **Muhammad Huzaifa**, a **BS Data Science student at Dawood University of En
   <img src="assets/project-invoice.svg" width="100%" alt="Vendor Invoice Intelligence Portal — freight cost prediction and invoice approval risk support">
 </a>
 
-A finance-focused ML application designed to predict freight costs and flag invoice approval risk, helping procurement teams review invoices more consistently.
+A finance-focused machine-learning application that estimates freight costs and flags invoices for approval-risk review. It brings both predictions into a Streamlit interface to support more consistent invoice review.
 
 <p>
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Pandas%20%7C%20Scikit--learn-123746?style=flat-square" alt="Project stack">
@@ -43,7 +56,7 @@ A finance-focused ML application designed to predict freight costs and flag invo
   <img src="assets/project-churn.svg" width="100%" alt="Customer Churn Prediction — estimate customer churn risk">
 </a>
 
-A deployed prediction app that estimates customer churn risk and groups customers into actionable risk segments to support retention planning.
+A deployed machine-learning app that estimates customer churn risk and groups customers into risk segments, giving teams a clearer starting point for retention analysis.
 
 <p>
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Scikit--learn-123746?style=flat-square" alt="Project stack">
@@ -55,7 +68,7 @@ A deployed prediction app that estimates customer churn risk and groups customer
   <img src="assets/project-airsense.svg" width="100%" alt="AirSense AI — air quality insights and AQI prediction">
 </a>
 
-An environmental intelligence platform for viewing air-quality information, exploring pollutant trends, predicting AQI, and understanding potential health risks.
+An environmental intelligence platform for exploring air-quality information and pollutant trends, estimating AQI, and presenting potential health-risk context.
 
 <p>
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20FastAPI%20%7C%20SQLite-123746?style=flat-square" alt="AirSense AI stack">
@@ -66,7 +79,7 @@ An environmental intelligence platform for viewing air-quality information, expl
   <img src="assets/project-nvidia.svg" width="100%" alt="NVIDIA Stock Price Prediction — regression on historical market data">
 </a>
 
-A regression project using historical NVIDIA market data to estimate the next day's stock price and explore time-dependent market patterns.
+A regression project that uses historical NVIDIA market data to estimate the next day's price and explore patterns in time-dependent data.
 
 <p>
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Scikit--learn%20%7C%20Flask-123746?style=flat-square" alt="NVIDIA project stack">
@@ -77,7 +90,7 @@ A regression project using historical NVIDIA market data to estimate the next da
   <img src="assets/project-breast-cancer.svg" width="100%" alt="Breast Cancer Prediction Web App — ML classification using Flask">
 </a>
 
-A machine-learning classification app that serves predictions from a trained model through a simple Flask interface.
+A Flask application that serves predictions from a trained machine-learning classification model through a straightforward web interface.
 
 <p>
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Scikit--learn%20%7C%20Flask-123746?style=flat-square" alt="Breast cancer project stack">
@@ -90,21 +103,28 @@ A machine-learning classification app that serves predictions from a trained mod
 
 <img src="assets/section-toolkit.svg" width="100%" alt="Toolkit — technologies and tools">
 
-<div align="center">
+I use these tools across coursework and projects, choosing the stack to fit the problem:
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,flask,fastapi,react" alt="Python, SQLite, Git, GitHub, VS Code, Flask, FastAPI and React">
+| Area | Technologies |
+| --- | --- |
+| **Languages & data** | Python, SQL, Pandas, NumPy |
+| **Machine learning** | Scikit-learn, model evaluation, predictive analytics |
+| **Apps & APIs** | Streamlit, Flask, FastAPI, React |
+| **Data & workflow** | SQLite, Git, GitHub, VS Code |
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,flask,fastapi,react" alt="Python, SQLite, Git, GitHub, VS Code, Flask, FastAPI and React">
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-123746?style=flat-square&logo=pandas&logoColor=31D6C8" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-123746?style=flat-square&logo=numpy&logoColor=31D6C8" alt="NumPy">
-<img src="https://img.shields.io/badge/Scikit--learn-123746?style=flat-square&logo=scikitlearn&logoColor=31D6C8" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/SQL-123746?style=flat-square&logo=postgresql&logoColor=31D6C8" alt="SQL">
-<img src="https://img.shields.io/badge/Streamlit-123746?style=flat-square&logo=streamlit&logoColor=31D6C8" alt="Streamlit">
-<img src="https://img.shields.io/badge/Model%20Evaluation-123746?style=flat-square&logo=weightsandbiases&logoColor=31D6C8" alt="Model evaluation">
-<img src="https://img.shields.io/badge/Data%20Visualization-123746?style=flat-square&logo=plotly&logoColor=31D6C8" alt="Data visualization">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-123746?style=flat-square&logo=pandas&logoColor=31D6C8" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-123746?style=flat-square&logo=numpy&logoColor=31D6C8" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--learn-123746?style=flat-square&logo=scikitlearn&logoColor=31D6C8" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/SQL-123746?style=flat-square&logo=postgresql&logoColor=31D6C8" alt="SQL">
+  <img src="https://img.shields.io/badge/Streamlit-123746?style=flat-square&logo=streamlit&logoColor=31D6C8" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Model%20Evaluation-123746?style=flat-square&logo=weightsandbiases&logoColor=31D6C8" alt="Model evaluation">
+  <img src="https://img.shields.io/badge/Data%20Visualization-123746?style=flat-square&logo=plotly&logoColor=31D6C8" alt="Data visualization">
+</p>
 
 <img src="assets/section-activity.svg" width="100%" alt="GitHub activity and statistics">
 
