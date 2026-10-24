@@ -52,6 +52,7 @@
 
 <img src="assets/title-activity.svg" width="100%" alt="05 Activity — A year of building.">
 <img src="assets/activity-banner.svg" width="100%" alt="GitHub public activity. Small commits, compounding skill.">
+<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating my real public GitHub contributions over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stud-Huzaifa&show_icons=true&hide_border=true&border_radius=16&bg_color=0A1C15&title_color=7FE0B8&text_color=9DBFAF&icon_color=E6C068&custom_title=GitHub%20at%20a%20glance" height="180" alt="GitHub stats for Stud-Huzaifa">
